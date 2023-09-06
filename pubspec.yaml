@@ -1,5 +1,5 @@
 name: pin_keypad
-description: A new Flutter package project.
+description: Flutter package with beautiful keypad input, usable for PIN code input
 version: 1.0.0
 homepage: https://github.com/lepsi-city/pin_keypad
 
